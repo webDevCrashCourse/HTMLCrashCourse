@@ -12,7 +12,7 @@
 1.  Formas
 
 
-## [Sesion 1](./Sesion1/Sesion1)
+## [Sesion 1](./Sesion1)
 
  1. Introduccion
  1. Sintaxis
