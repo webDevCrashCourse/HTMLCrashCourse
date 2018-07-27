@@ -17,7 +17,7 @@
  1. Introduccion
  1. Sintaxis
 
-## Sesion 2 
+## [Sesion 2](./Sesion2) 
 
  1. Header y Body tags
  1. Texto fundamentales
